@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "IBM31SD")(type "KiCad")(uri "C:/Data/Computers/IBM 31SD Floppy Drive/IBM31SD/IBM31SD.kicad_sym")(options "")(descr ""))
+  (lib (name "IBMCards")(type "KiCad")(uri "C:/Data/Projects/IBMCards/IBMCards.kicad_sym")(options "")(descr ""))
+)
